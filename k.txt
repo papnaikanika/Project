@@ -5,7 +5,14 @@ hello guys!!!
  how are you?
 this is our project
 
-=======
+
+
+
+
+
 good morning!!!!
->>>>>>> 8b0dc122479717b85146cef8f48e33b17252cd21
+
+
+okk ?
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
